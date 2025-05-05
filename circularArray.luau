@@ -85,7 +85,7 @@ circularArray._iHash = _iHash
 
 -- takes in an ihask index, and returns the original index 1-n
 local function _iHashRev(s: number, n: number, i: number): number
-    return (i - 3 - s + 1) % n + 1
+    return (i - 2 - s) % n + 1
 end
 circularArray._iHashRev = _iHashRev
 
