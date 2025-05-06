@@ -1,1 +1,1 @@
-Efficient circular array implementation in Roblox's Luau
+Efficient circular array implementation in Roblox's Luau (circularArray.luau)
